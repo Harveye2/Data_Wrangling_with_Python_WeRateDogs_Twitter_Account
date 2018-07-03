@@ -14,12 +14,12 @@ The following Python libraries were imported for the purpose of this project:
 -  tweepy
 
 ## Data
-The initial data files gathered for this project:
+The initial data files gathered for this project, and stored in the 'Gathered_data' folder:
 1) 'twitter_archive_enhanced.csv" file (downloaded manually from the Udacity website)
 2) 'image_predictions.tsv' file (programmatically downloaded from the Udacity server)
 3) 'tweet_json.txt' file (obtained from the Twitter API)
 
-The final data files saved, afer assessing and cleaning the data:
+The final data files saved, afer assessing and cleaning the data, and stored in the 'Cleaned_data' folder:
 1) 'twitter_archive_master.csv' file 
 2) 'image_predcitions_clean.csv' file
 
