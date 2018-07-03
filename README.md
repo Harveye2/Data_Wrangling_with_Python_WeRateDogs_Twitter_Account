@@ -20,8 +20,8 @@ The initial data files gathered for this project:
 3) 'tweet_json.txt' file (obtained from the Twitter API)
 
 The final data files saved, afer assessing and cleaning the data:
-1) 'twitter_master_db' SQLite database file 
-2) 'image_predcitions_clean_db' SQLite database file 
+1) 'twitter_archive_master.csv' file 
+2) 'image_predcitions_clean.csv' file
 
 The project documents:
 1) 'WeRateDogs_Data_wrangle_code.ipynb' (jupyter notebook containg the code for gathering, assessing, cleaning, storing and analysing the data)
